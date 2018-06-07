@@ -1,0 +1,12 @@
+PODS:
+  - TensorFlowLite (0.0.3)
+
+DEPENDENCIES:
+  - TensorFlowLite
+
+SPEC CHECKSUMS:
+  TensorFlowLite: bb18b142cbb3485adf58a941e0dee304e2fb8146
+
+PODFILE CHECKSUM: f75ee89fe7d9dd521944cc9a28c0b91e8ea71fcc
+
+COCOAPODS: 1.3.1
